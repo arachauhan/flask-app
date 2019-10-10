@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn Logistic_Regression_model:app
